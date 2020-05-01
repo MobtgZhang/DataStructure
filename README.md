@@ -7,8 +7,8 @@ This folder is mainly used to practice some basic data structures,including foll
 - sort algorithms:for example,quick sort and so all.
 
 for many languages,now the Now the author is devoted to learning the realization of data structure of following languages:
-[-] C++
-[x] Java
-[-] Go
-[x] Julia
-[x] Lua
+- [-] C++
+- [x] Java
+- [-] Go
+- [x] Julia
+- [x] Lua
