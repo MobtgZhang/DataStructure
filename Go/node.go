@@ -1,4 +1,4 @@
-package List
+package main
 //表示链表的节点
 type SingleNode struct{
 	next *SingleNode
